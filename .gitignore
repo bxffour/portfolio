@@ -6,3 +6,11 @@ refs/
 
 # Hallmark project memory (internal tracking)
 .hallmark/
+
+# wrangler local cache
+.wrangler/
+
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
