@@ -159,11 +159,12 @@ a {
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
-  text-decoration-color: var(--color-border);
+  text-decoration-color: var(--color-accent-dim);
 }
 
 .inline-link:hover,
 .inline-link:focus-visible {
+  color: var(--color-accent-strong);
   text-decoration-color: var(--color-accent);
 }
 
