@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# reference / working material (not part of the site)
+refs/
+
+# Hallmark project memory (internal tracking)
+.hallmark/
