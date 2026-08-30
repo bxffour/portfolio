@@ -431,9 +431,10 @@ a {
   content: "";
   position: absolute;
   left: 0;
-  top: 0.6em;
-  width: 0.4em;
-  height: 1px;
+  top: 0.55em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
   background: var(--color-accent);
 }
 
